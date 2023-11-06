@@ -71,23 +71,25 @@
             android:hint="Password"></EditText>
 
     </com.google.android.material.textfield.TextInputLayout>
+
     <Button
         android:id="@+id/boton1"
+        style="@style/buttonFlat"
         android:text="Login"
-        app:layout_constraintStart_toStartOf="@id/guideline1"
         app:layout_constraintEnd_toEndOf="@id/guideline2"
-        app:layout_constraintTop_toBottomOf="@id/til2"
-        style="@style/buttonFlat">
+        app:layout_constraintStart_toStartOf="@id/guideline1"
+        app:layout_constraintTop_toBottomOf="@id/til2">
 
     </Button>
 
     <Button
         android:id="@+id/boton2"
+        style="@style/buttonOutlined"
+        android:onClick="openSignup"
         android:text="Signup"
-        app:layout_constraintStart_toStartOf="@id/guideline1"
         app:layout_constraintEnd_toEndOf="@id/guideline2"
-        app:layout_constraintTop_toBottomOf="@id/boton1"
-        style="@style/buttonOutlined">
+        app:layout_constraintStart_toStartOf="@id/guideline1"
+        app:layout_constraintTop_toBottomOf="@id/boton1">
 
     </Button>
 

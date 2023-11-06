@@ -84,6 +84,7 @@
     <Button
         android:id="@+id/boton2"
         android:text="Signup"
+        android:onClick="openSignup"
         app:layout_constraintStart_toStartOf="@id/guideline1"
         app:layout_constraintEnd_toEndOf="@id/guideline2"
         app:layout_constraintTop_toBottomOf="@id/boton1"

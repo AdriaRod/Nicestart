@@ -122,11 +122,12 @@
 
     <Button
         android:id="@+id/boton2"
+        style="@style/buttonOutlined"
+        android:onClick="openLogin"
         android:text="Back"
-        app:layout_constraintStart_toStartOf="@id/guideline1"
         app:layout_constraintEnd_toEndOf="@id/guideline2"
-        app:layout_constraintTop_toBottomOf="@id/boton1"
-        style="@style/buttonOutlined">
+        app:layout_constraintStart_toStartOf="@id/guideline1"
+        app:layout_constraintTop_toBottomOf="@id/boton1">
 
     </Button>
 
