@@ -75,6 +75,7 @@
     <Button
         android:id="@+id/boton1"
         style="@style/buttonFlat"
+        android:onClick="openMain"
         android:text="Login"
         app:layout_constraintEnd_toEndOf="@id/guideline2"
         app:layout_constraintStart_toStartOf="@id/guideline1"
