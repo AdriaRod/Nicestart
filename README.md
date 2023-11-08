@@ -22,3 +22,10 @@ Y además contamos con el botón **Register** con el cual nos llevará al
 **MainActivity** una vez pulsado
 
 <img src="img/signup.png" alt="Signup activity" width="540" height="1110" />
+
+### Main
+
+Por ultimo tendremos el main que también tendrá una action bar y el
+contenido principal de la applicación, de momento vacío.
+
+<img src="img/main.png" alt="Signup activity" width="540" height="1110" />
