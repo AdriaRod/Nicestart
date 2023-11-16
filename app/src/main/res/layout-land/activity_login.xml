@@ -8,6 +8,21 @@
     tools:context=".Login">
 
     <ImageView
+        android:id="@+id/chica"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitStart"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.9"
+        android:background="@drawable/gradientlogin">
+    </View>
+
+    <ImageView
         android:id="@+id/logo"
         android:layout_width="80dp"
         android:layout_height="80dp"
@@ -18,21 +33,7 @@
         app:layout_constraintTop_toTopOf="parent"
         />
 
-    <ImageView
-        android:id="@+id/chica"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scaleType="fitStart"
-        app:srcCompat="@drawable/girl"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
 
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:alpha="0.1"
-        android:background="@drawable/gradientlogin">
-    </View>
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/til1"
