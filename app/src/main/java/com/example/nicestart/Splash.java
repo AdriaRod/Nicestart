@@ -42,7 +42,7 @@ public class Splash extends AppCompatActivity {
                 .into(mSea);
 
         animationView = findViewById(R.id.animationView);
-        animationView.setAnimation(R.raw.cubitos2);             //Nombre de la animacion en res/raw
+        animationView.setAnimation(R.raw.cubitos);             //Nombre de la animacion en res/raw
         animationView.setRepeatCount(LottieDrawable.INFINITE); //Que sea infinito
     }
 
