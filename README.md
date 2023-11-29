@@ -46,7 +46,7 @@ También he añadido una animación dentro del mismo splash para el que
 hemos usado [Lottie](https://github.com/airbnb/lottie-android) para que
 en todo momento el usuario vea que la aplicación está cargando.
 
-<img src="img/splash1.png" alt="Splash1" width="540" height="1110" />
+<img src="img/splash2.png" alt="Splash1" width="540" height="1110" />
 
 Animacion en formato gif:
 
