@@ -48,6 +48,7 @@ en todo momento el usuario vea que la aplicación está cargando.
 
 <img src="img/splash1.png" alt="Splash1" width="540" height="1110" />
 <img src="img/splash2.png" alt="Splash2" width="540" height="1110" />
+<img src="img/animacionLottie.gif">
 
 
 ### Nopeople
@@ -60,5 +61,8 @@ refrescar para mostrar una nueva cara
 <img src="img/nopeople.png" alt="Preview Nopeople" width="540" height="1110" />
 
 ## Pull Request
+He hecho un [Pull Request](https://github.com/atomms/First/pull/7) a la
+rama [adria23](https://github.com/atomms/First/tree/adria23) en el repositorio del profesor Ernesto
+
 <img src="img/pullrequest.png" alt="Pull Request" />
 
