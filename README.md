@@ -1,5 +1,7 @@
 # Nicestart
 
+
+
 ### Login
 
 En la primera ventana **Login** podemos iniciar sesión o cambiar a la
@@ -28,10 +30,11 @@ Y además contamos con el botón **Register** con el cual nos llevará al
 
 ### Main
 
-Por ultimo tendremos el main que también tendrá una action bar y el
-contenido principal de la applicación, de momento vacío.
+Por ultimo tendremos el main tendrá en la parte inferior una **Bottom
+Bar** que nos permitirá movernos entre distintos apartados de la
+aplicacion. Además hay un botón que nos llevará al Activity **NoPeople**
 
-<img src="img/main.png" alt="Signup activity" width="540" height="1110" />
+<img src="img/main2.png" alt="Signup activity" width="540" height="1110" />
 
 ### Splash
 
@@ -56,5 +59,6 @@ refrescar para mostrar una nueva cara
 
 <img src="img/nopeople.png" alt="Preview Nopeople" width="540" height="1110" />
 
-
+## Pull Request
+<img src="img/pullrequest.png" alt="Pull Request" />
 

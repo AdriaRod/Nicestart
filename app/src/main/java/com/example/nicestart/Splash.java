@@ -19,7 +19,6 @@ import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 public class Splash extends AppCompatActivity {
 
     private LottieAnimationView animationView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,7 +41,7 @@ public class Splash extends AppCompatActivity {
                 .into(mSea);
 
         animationView = findViewById(R.id.animationView);
-        animationView.setAnimation(R.raw.cubitos);             //Nombre de la animacion en res/raw
+        animationView.setAnimation(R.raw.cubitos2);             //Nombre de la animacion en res/raw
         animationView.setRepeatCount(LottieDrawable.INFINITE); //Que sea infinito
     }
 
@@ -57,6 +56,6 @@ public class Splash extends AppCompatActivity {
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(intent);
             }
-        }, 5000);
+        }, 7000);
     }
 }
