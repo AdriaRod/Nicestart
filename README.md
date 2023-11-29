@@ -47,8 +47,10 @@ hemos usado [Lottie](https://github.com/airbnb/lottie-android) para que
 en todo momento el usuario vea que la aplicación está cargando.
 
 <img src="img/splash1.png" alt="Splash1" width="540" height="1110" />
-<img src="img/splash2.png" alt="Splash2" width="540" height="1110" />
-<img src="img/animacionLottie.gif">
+
+Animacion en formato gif:
+
+<img src="img/animacionLottie.gif" width="200" height="200">
 
 
 ### Nopeople
