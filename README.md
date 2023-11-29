@@ -34,7 +34,7 @@ Por ultimo tendremos el main tendrá en la parte inferior una **Bottom
 Bar** que nos permitirá movernos entre distintos apartados de la
 aplicacion. Además hay un botón que nos llevará al Activity **NoPeople**
 
-<img src="img/main2.png" alt="Signup activity" width="540" height="1110" />
+<img src="img/Main2.png" alt="Signup activity" width="540" height="1110" />
 
 ### Splash
 
